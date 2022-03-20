@@ -35,7 +35,7 @@
   "devDependencies": {
     "@types/yeoman-environment": "2.10.5",
     "@types/yeoman-generator": "3.1.4",
-    "release-it": "13.7.2",
+    "release-it": "14.13.1",
     "typescript": "3.9.10"
   },
   "dependencies": {
